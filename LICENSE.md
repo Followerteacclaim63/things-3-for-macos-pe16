@@ -1,4 +1,4 @@
-#  
+#  Enhance Things 3 for macOS with automatic Extension for Things 3 for macOS - auto-sync and database templates, the #1 extension. Includes auto-sync and database templates for a
 
 
 
